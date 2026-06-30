@@ -1,0 +1,19 @@
+---
+title: "W07-Reflection Essay-Introduction to Positron"
+author: "Dominic De Feo"
+date: '`r format(Sys.time())`'
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Question 1
+
+## Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
